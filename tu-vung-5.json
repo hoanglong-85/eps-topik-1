@@ -1,0 +1,314 @@
+[
+    {
+        "korean": "월요일",
+        "english": "Monday",
+        "vietnamese": "thứ Hai",
+        "audio": "tv-eps-b5-2025-1.mp3"
+    },
+    {
+        "korean": "어제",
+        "english": "yesterday",
+        "vietnamese": "hôm qua",
+        "audio": "tv-eps-b5-2025-2.mp3"
+    },
+    {
+        "korean": "오늘",
+        "english": "today",
+        "vietnamese": "hôm nay",
+        "audio": "tv-eps-b5-2025-3.mp3"
+    },
+    {
+        "korean": "내일",
+        "english": "tomorrow",
+        "vietnamese": "ngày mai",
+        "audio": "tv-eps-b5-2025-4.mp3"
+    },
+    {
+        "korean": "평일",
+        "english": "weekday",
+        "vietnamese": "ngày trong tuần",
+        "audio": "tv-eps-b5-2025-5.mp3"
+    },
+    {
+        "korean": "주말",
+        "english": "weekend",
+        "vietnamese": "cuối tuần",
+        "audio": "tv-eps-b5-2025-6.mp3"
+    },
+    {
+        "korean": "매일",
+        "english": "everyday",
+        "vietnamese": "mỗi ngày\/hàng ngày",
+        "audio": "tv-eps-b5-2025-7.mp3"
+    },
+    {
+        "korean": "화요일",
+        "english": "Tuesday",
+        "vietnamese": "thứ Ba",
+        "audio": "tv-eps-b5-2025-8.mp3"
+    },
+    {
+        "korean": "수요일",
+        "english": "Wednesday",
+        "vietnamese": "thứ Tư",
+        "audio": "tv-eps-b5-2025-9.mp3"
+    },
+    {
+        "korean": "목요일",
+        "english": "Thursday",
+        "vietnamese": "thứ Năm",
+        "audio": "tv-eps-b5-2025-10.mp3"
+    },
+    {
+        "korean": "금요일",
+        "english": "Friday",
+        "vietnamese": "thứ Sáu",
+        "audio": "tv-eps-b5-2025-11.mp3"
+    },
+    {
+        "korean": "토요일",
+        "english": "Saturday",
+        "vietnamese": "thứ Bảy",
+        "audio": "tv-eps-b5-2025-12.mp3"
+    },
+    {
+        "korean": "일요일",
+        "english": "Sunday",
+        "vietnamese": "Chủ nhật",
+        "audio": "tv-eps-b5-2025-13.mp3"
+    },
+    {
+        "korean": "지난주",
+        "english": "last week",
+        "vietnamese": "tuần trước",
+        "audio": "tv-eps-b5-2025-14.mp3"
+    },
+    {
+        "korean": "이번 주",
+        "english": "this week",
+        "vietnamese": "tuần này",
+        "audio": "tv-eps-b5-2025-15.mp3"
+    },
+    {
+        "korean": "다음 주",
+        "english": "next week",
+        "vietnamese": "tuần sau",
+        "audio": "tv-eps-b5-2025-16.mp3"
+    },
+    {
+        "korean": "이번 달",
+        "english": "this month",
+        "vietnamese": "tháng này",
+        "audio": "tv-eps-b5-2025-17.mp3"
+    },
+    {
+        "korean": "다음 달",
+        "english": "next month",
+        "vietnamese": "tháng sau",
+        "audio": "tv-eps-b5-2025-18.mp3"
+    },
+    {
+        "korean": "1월",
+        "english": "January",
+        "vietnamese": "tháng Một",
+        "audio": "tv-eps-b5-2025-19.mp3"
+    },
+    {
+        "korean": "2월",
+        "english": "February",
+        "vietnamese": "tháng Hai",
+        "audio": "tv-eps-b5-2025-20.mp3"
+    },
+    {
+        "korean": "3월",
+        "english": "March",
+        "vietnamese": "tháng Ba",
+        "audio": "tv-eps-b5-2025-21.mp3"
+    },
+    {
+        "korean": "4월",
+        "english": "April",
+        "vietnamese": "tháng Tư",
+        "audio": "tv-eps-b5-2025-22.mp3"
+    },
+    {
+        "korean": "5월",
+        "english": "May",
+        "vietnamese": "tháng Năm",
+        "audio": "tv-eps-b5-2025-23.mp3"
+    },
+    {
+        "korean": "6월",
+        "english": "June",
+        "vietnamese": "tháng Sáu",
+        "audio": "tv-eps-b5-2025-24.mp3"
+    },
+    {
+        "korean": "7월",
+        "english": "July",
+        "vietnamese": "tháng Bảy",
+        "audio": "tv-eps-b5-2025-25.mp3"
+    },
+    {
+        "korean": "8월",
+        "english": "August",
+        "vietnamese": "tháng Tám",
+        "audio": "tv-eps-b5-2025-26.mp3"
+    },
+    {
+        "korean": "9월",
+        "english": "September",
+        "vietnamese": "tháng Chín",
+        "audio": "tv-eps-b5-2025-27.mp3"
+    },
+    {
+        "korean": "10월",
+        "english": "October",
+        "vietnamese": "tháng Mười",
+        "audio": "tv-eps-b5-2025-28.mp3"
+    },
+    {
+        "korean": "11월",
+        "english": "November",
+        "vietnamese": "tháng Mười Một",
+        "audio": "tv-eps-b5-2025-29.mp3"
+    },
+    {
+        "korean": "12월",
+        "english": "December",
+        "vietnamese": "tháng Mười Hai",
+        "audio": "tv-eps-b5-2025-30.mp3"
+    },
+    {
+        "korean": "일",
+        "english": "day",
+        "vietnamese": "ngày",
+        "audio": "tv-eps-b5-2025-31.mp3"
+    },
+    {
+        "korean": "숫자",
+        "english": "number",
+        "vietnamese": "số",
+        "audio": "tv-eps-b5-2025-32.mp3"
+    },
+    {
+        "korean": "일",
+        "english": "one",
+        "vietnamese": "một",
+        "audio": "tv-eps-b5-2025-33.mp3"
+    },
+    {
+        "korean": "이",
+        "english": "two",
+        "vietnamese": "hai",
+        "audio": "tv-eps-b5-2025-34.mp3"
+    },
+    {
+        "korean": "삼",
+        "english": "three",
+        "vietnamese": "ba",
+        "audio": "tv-eps-b5-2025-35.mp3"
+    },
+    {
+        "korean": "사",
+        "english": "four",
+        "vietnamese": "bốn",
+        "audio": "tv-eps-b5-2025-36.mp3"
+    },
+    {
+        "korean": "오",
+        "english": "five",
+        "vietnamese": "năm",
+        "audio": "tv-eps-b5-2025-37.mp3"
+    },
+    {
+        "korean": "육",
+        "english": "six",
+        "vietnamese": "sáu",
+        "audio": "tv-eps-b5-2025-38.mp3"
+    },
+    {
+        "korean": "칠",
+        "english": "seven",
+        "vietnamese": "bảy",
+        "audio": "tv-eps-b5-2025-39.mp3"
+    },
+    {
+        "korean": "팔",
+        "english": "eight",
+        "vietnamese": "tám",
+        "audio": "tv-eps-b5-2025-40.mp3"
+    },
+    {
+        "korean": "구",
+        "english": "nine",
+        "vietnamese": "chín",
+        "audio": "tv-eps-b5-2025-41.mp3"
+    },
+    {
+        "korean": "십",
+        "english": "ten",
+        "vietnamese": "mười",
+        "audio": "tv-eps-b5-2025-42.mp3"
+    },
+    {
+        "korean": "이십",
+        "english": "twenty",
+        "vietnamese": "hai mươi",
+        "audio": "tv-eps-b5-2025-43.mp3"
+    },
+    {
+        "korean": "삼십",
+        "english": "thirty",
+        "vietnamese": "ba mươi",
+        "audio": "tv-eps-b5-2025-44.mp3"
+    },
+    {
+        "korean": "작년",
+        "english": "last year",
+        "vietnamese": "năm ngoái",
+        "audio": "tv-eps-b5-2025-45.mp3"
+    },
+    {
+        "korean": "올해",
+        "english": "this year",
+        "vietnamese": "năm nay",
+        "audio": "tv-eps-b5-2025-46.mp3"
+    },
+    {
+        "korean": "내년",
+        "english": "next year",
+        "vietnamese": "năm sau",
+        "audio": "tv-eps-b5-2025-47.mp3"
+    },
+    {
+        "korean": "언제",
+        "english": "when",
+        "vietnamese": "khi nào",
+        "audio": "tv-eps-b5-2025-48.mp3"
+    },
+    {
+        "korean": "생일",
+        "english": "birthday",
+        "vietnamese": "sinh nhật",
+        "audio": "tv-eps-b5-2025-49.mp3"
+    },
+    {
+        "korean": "친구",
+        "english": "friend",
+        "vietnamese": "bạn bè",
+        "audio": "tv-eps-b5-2025-50.mp3"
+    },
+    {
+        "korean": "케이크",
+        "english": "cake",
+        "vietnamese": "bánh kem",
+        "audio": "tv-eps-b5-2025-51.mp3"
+    },
+    {
+        "korean": "미역국",
+        "english": "seaweed soup",
+        "vietnamese": "canh rong biển",
+        "audio": "tv-eps-b5-2025-52.mp3"
+    }
+]
