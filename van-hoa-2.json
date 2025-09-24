@@ -1,0 +1,42 @@
+[{
+    "title": {
+      "korean": "한국에서 알뜰하게 생필품을 구입하는 팁",
+      "vietnamese": "Mẹo mua nhu yếu phẩm một cách tiết kiệm ở Hàn Quốc"
+    },
+    "data": [
+      {
+        "korean": "대형 마트에서는 종종 ( 1 + 1 ), ( 2 + 1 ) 또는 주말 특가와 같은 할인 행사를 열어 식료품부터 생활용품까지 다양한 상품을 싸게 판매합니다. 마트에서 나누어 주는 전단지를 통해 할인 상품 및 할인 금액, 추천 상품 등 할인 행사에 대한 정보를 얻을 수 있습니다.",
+        "vietnamese": "Tại các siêu thị lớn, họ thường tổ chức các sự kiện giảm giá như  ( 1 + 1 ), ( 2 + 1 ) hoặc giảm giá đặc biệt cuối tuần để bán các sản phẩm đa dạng từ thực phẩm đến đồ dùng sinh hoạt với giá rẻ. Bạn có thể nhận được thông tin về sự kiện giảm giá như sản phẩm giảm giá, số tiền giảm giá được giới thiệu thông qua tờ rơi phát tại siêu thị."
+      },
+      {
+        "korean": "온라인 쇼핑몰을 통해서도 생필품을 싸게 구매할 수 있습니다. 온라인 쇼핑몰에서는 정기적으로 할인 행사를 하거나 할인 쿠폰을 제공합니다. 이를 활용하여 특정 상품을 싸게 구매하거나 추가 할인을 받을 수 있습니다.",
+        "vietnamese": "Bạn cũng có thể mua các nhu yếu phẩm với giá rẻ thông qua trung tâm mua sắm trực tuyến. Các trung tâm mua sắm trực tuyến thường xuyên tổ chức các sự kiện giảm giá hoặc cung cấp phiếu giảm giá. Bạn có thể tận dụng điều này để mua sản phẩm đặc biệt với giá rẻ hoặc được giảm giá bổ sung."
+      },
+      {
+        "korean": "중고 거래 플랫폼을 통해 생필품을 싸게 찾을 수도 있습니다. 이를 통해 다양한 물품, 생활용품뿐만 아니라 가전제품, 가구 등 다른 사람이 사용하지 않는 물품을 구매할 수 있습니다. 이처럼 중고 거래 플랫폼을 통해 사용한 물품을 판매하거나 구매하는 거래가 이루어집니다.",
+        "vietnamese": "Ngoài ra, bạn có thể tìm kiếm nhu yếu phẩm đã qua sử dụng với giá rẻ thông qua nền tảng giao dịch như 당근/cà rốt. Bạn có thể mua đa dạng hàng hóa, không chỉ đồ dùng sinh hoạt mà còn cả đồ gia dụng, đồ nội thất mà người khác không còn sử dụng nữa. Thông qua nền tảng giao dịch bán đồ đã qua sử dụng như thế này, có thể bán được hàng hóa mà bản thân đã sử dụng. Giao dịch đã qua sử dụng thông qua nền tảng, phần lớn là giao dịch trực tiếp giữa những người sống cùng khu vực."
+      }
+    ],
+    "voca": {
+      "알뜰하다": "Tiết kiệm, tận tụy",
+      "금액": "Số tiền",
+      "생필품": "Đồ dùng thiết yếu",
+      "얻다": "Nhận được",
+      "구입하다": "Thu mua",
+      "온라인 쇼핑몰": "Khu mua sắm online",
+      "종종": "Thỉnh thoảng, đôi khi",
+      "정기적": "Tĩnh định kỳ",
+      "열다": "Mở",
+      "쿠폰": "Phiếu mua hàng",
+      "다양하다": "Đa dạng",
+      "제공하다": "Cung cấp",
+      "상품": "Sản phẩm",
+      "중고 거래 플랫폼": "Nền tảng mua bán đồ cũ",
+      "판매하다": "Bán",
+      "가전제품": "Sản phẩm điện gia dụng",
+      "나누다": "Phân loại, chia",
+      "직거래": "Giao dịch trực tiếp",
+      "전단지": "Tờ rơi",
+      "이루어지다": "Thực hiện được, được hình thành"
+    }
+  }]
