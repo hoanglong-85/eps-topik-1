@@ -1,0 +1,22 @@
+[
+   {
+  "nguphap": "입니다 / 입니까?",
+  "loai": "명사 + 입니다 / 입니까?",
+  "ynghia": "입니다 kết hợp với danh từ chỉ thuộc tính của chủ ngữ và là vị ngữ trong câu trang trọng, tôn trọng người nghe. 입니까? là dạng nghi vấn của 입니다, dùng để hỏi về thuộc tính của chủ ngữ.",
+  "vidu": [
+    {"cau": "(저는) 유수프입니다.", "nghia": "Tôi là Yusuf."},
+    {"cau": "왕민입니다.", "nghia": "Là Wang Min."},
+    {"cau": "가 : 어느 나라 사람입니까? 나 : (저는) 라오스 사람입니다.", "nghia": "A: Bạn là người nước nào? B: Tôi là người Lào."}
+  ],
+  "luat": "입니다 dùng trong câu trang trọng với danh từ. 입니까? dùng khi muốn hỏi về thuộc tính của chủ ngữ."
+},
+  {
+  "nguphap": "은/는",
+  "loai": "명사 + 은/는",
+  "ynghia": "Kết hợp với danh từ để chỉ chủ đề hoặc đề tài của câu.",
+  "vidu": [
+    {"cau": "푸캄은 예투안입니다.", "nghia": "Fukam là Yetuân."},
+    {"cau": "진수 씨는 회사원입니다.", "nghia": "Jinsu là nhân viên công ty."}
+  ],
+  "luat": "Nếu danh từ có 받침 thì dùng 은, không có 받침 thì dùng 는."
+}]
