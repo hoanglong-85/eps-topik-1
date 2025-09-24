@@ -1,0 +1,43 @@
+[
+  {
+    "title": {
+      "korean": "한국의 인사 예절",
+      "vietnamese": "Phép lịch sự chào hỏi của Hàn Quốc"
+    },
+    "data": [
+      {
+        "korean": "한국에서는 상대에 따라 인사하는 방식이 다릅니다. 자신보다 나이가 많거나 지위가 높은 사람에게는 안녕하세요? 또는 안녕하십니까?라고 말하며 고개를 숙이거나 허리를 굽혀 인사합니다. 고개를 숙이거나 허리를 굽히는 것은 상대방에 대한 존경을 나타내는 제스처입니다. 한편 자신보다 나이가 어리거나 친한 사람에게는 안녕?이라고 말하며 한 손을 가볍게 들거나 흔들어 반가움을 나타냅니다.",
+        "vietnamese": "Ở Hàn Quốc thì tùy vào đối phương mà người hàn sử dụng cách chào hỏi khác nhau. Đối với những người lớn tuổi hơn hoặc có địa vị cao hơn mình, họ cúi đầu hoặc cúi chào và nói 안녕하세요?/ 안녕하십니까?. Cúi đầu hoặc cúi lưng là một cử chỉ thể hiện sự tôn trọng đối phương. Trong khi đó, đối với những người trẻ hơn hoặc thân thiết với mình, họ nói 안녕? và nhẹ nhàng giơ một tay lên hoặc lắc lắc tay để thể hiện sự vui mừng."
+      },
+      {
+        "korean": "안녕하세요?, 안녕하십니까?, 안녕?은 인사하는 시간에 상관없이 아침, 점심, 저녁 언제든지 사용할 수 있습니다.",
+        "vietnamese": "안녕하세요?, 안녕하십니까?, 안녕?” có thể được sử dụng bất cứ lúc nào vào buổi sáng, trưa, tối, bất kể thời gian chào hỏi."
+      },
+      {
+        "korean": "공적인 상황에서는 주로 악수를 하며 인사합니다. 다만, 자신보다 나이가 훨씬 많거나 지위가 높은 사람에게 인사할 때는 왼손으로 오른팔이나 오른손을 받치고 악수를 하는 것이 예의입니다.",
+        "vietnamese": "Trong tình huống nơi công cộng và giao tiếp đối ngoại, chủ yếu là bắt tay và chào hỏi. Tuy nhiên, khi chào hỏi những người lớn tuổi hơn hoặc có địa vị cao hơn bản thân, bạn nên bắt tay bằng tay phải và dùng tay trái đỡ cánh tay phải."
+      }
+    ],
+    "voca": {
+      "상대": "Đối phương",
+      "인사하다": "Chào",
+      "방식": "Phương thức",
+      "다르다": "Khác",
+      "자신": "Bản thân, chính mình",
+      "고개": "Cổ, gáy",
+      "숙이다": "Cúi",
+      "허리": "Eo",
+      "굽히다": "Khom, cúi",
+      "나타내다": "Xuất hiện, biểu thị",
+      "제스처": "Cử chỉ, điệu bộ",
+      "가볍다": "Nhẹ",
+      "흔들다": "Lắc lư, vẫy",
+      "상관없다": "Không liên quan",
+      "언제든지": "Bất cứ lúc nào",
+      "악수하다": "Bắt tay",
+      "받치다": "Đỡ, nâng",
+      "예의": "Lễ nghĩa, phép lịch sự",
+      "한편": "Mặt khác",
+      "나이가 어리다": "Nhỏ tuổi"
+    }
+  }]
