@@ -1,164 +1,26 @@
-[
-    {
-        "korean": "이것",
-        "english": "this (thing)",
-        "vietnamese": "cái này",
-        "audio": "tv-eps-b2-2025-1.mp3"
-    },
-    {
-        "korean": "저것",
-        "english": "that (thing over there)",
-        "vietnamese": "cái kia (xa cả hai)",
-        "audio": "tv-eps-b2-2025-2.mp3"
-    },
-    {
-        "korean": "그것",
-        "english": "that (thing)",
-        "vietnamese": "cái đó",
-        "audio": "tv-eps-b2-2025-3.mp3"
-    },
-    {
-        "korean": "무엇\/뭐",
-        "english": "what",
-        "vietnamese": "cái gì",
-        "audio": "tv-eps-b2-2025-4.mp3"
-    },
-    {
-        "korean": "연필",
-        "english": "pencil",
-        "vietnamese": "bút chì",
-        "audio": "tv-eps-b2-2025-5.mp3"
-    },
-    {
-        "korean": "볼펜",
-        "english": "ballpoint pen",
-        "vietnamese": "bút bi",
-        "audio": "tv-eps-b2-2025-6.mp3"
-    },
-    {
-        "korean": "가위",
-        "english": "scissors",
-        "vietnamese": "cây kéo",
-        "audio": "tv-eps-b2-2025-7.mp3"
-    },
-    {
-        "korean": "칼",
-        "english": "boxcutter\/knife",
-        "vietnamese": "dao rọc giấy",
-        "audio": "tv-eps-b2-2025-8.mp3"
-    },
-    {
-        "korean": "시계",
-        "english": "clock\/watch",
-        "vietnamese": "đồng hồ",
-        "audio": "tv-eps-b2-2025-9.mp3"
-    },
-    {
-        "korean": "달력",
-        "english": "calendar",
-        "vietnamese": "lịch",
-        "audio": "tv-eps-b2-2025-10.mp3"
-    },
-    {
-        "korean": "컴퓨터",
-        "english": "computer",
-        "vietnamese": "máy tính",
-        "audio": "tv-eps-b2-2025-11.mp3"
-    },
-    {
-        "korean": "안경",
-        "english": "glasses",
-        "vietnamese": "kính mắt",
-        "audio": "tv-eps-b2-2025-12.mp3"
-    },
-    {
-        "korean": "휴대폰\/휴대전화",
-        "english": "cell phone",
-        "vietnamese": "điện thoại di động",
-        "audio": "tv-eps-b2-2025-13.mp3"
-    },
-    {
-        "korean": "계산기",
-        "english": "calculator",
-        "vietnamese": "máy tính cầm tay",
-        "audio": "tv-eps-b2-2025-14.mp3"
-    },
-    {
-        "korean": "컵",
-        "english": "cup",
-        "vietnamese": "cốc\/tách",
-        "audio": "tv-eps-b2-2025-15.mp3"
-    },
-    {
-        "korean": "휴지",
-        "english": "toilet paper",
-        "vietnamese": "giấy vệ sinh",
-        "audio": "tv-eps-b2-2025-16.mp3"
-    },
-    {
-        "korean": "가족사진",
-        "english": "family picture",
-        "vietnamese": "ảnh gia đình",
-        "audio": "tv-eps-b2-2025-17.mp3"
-    },
-    {
-        "korean": "여권",
-        "english": "passport",
-        "vietnamese": "hộ chiếu",
-        "audio": "tv-eps-b2-2025-18.mp3"
-    },
-    {
-        "korean": "지갑",
-        "english": "wallet",
-        "vietnamese": "ví tiền",
-        "audio": "tv-eps-b2-2025-19.mp3"
-    },
-    {
-        "korean": "열쇠",
-        "english": "key",
-        "vietnamese": "chìa khóa",
-        "audio": "tv-eps-b2-2025-20.mp3"
-    },
-    {
-        "korean": "가방",
-        "english": "bag",
-        "vietnamese": "cặp\/túi xách",
-        "audio": "tv-eps-b2-2025-21.mp3"
-    },
-    {
-        "korean": "우산",
-        "english": "umbrella",
-        "vietnamese": "ô\/dù",
-        "audio": "tv-eps-b2-2025-22.mp3"
-    },
-    {
-        "korean": "화장품",
-        "english": "cosmetics (skin care)",
-        "vietnamese": "mỹ phẩm",
-        "audio": "tv-eps-b2-2025-23.mp3"
-    },
-    {
-        "korean": "거울",
-        "english": "mirror",
-        "vietnamese": "gương",
-        "audio": "tv-eps-b2-2025-24.mp3"
-    },
-    {
-        "korean": "빗",
-        "english": "brush\/comb",
-        "vietnamese": "lược\/chải tóc",
-        "audio": "tv-eps-b2-2025-25.mp3"
-    },
-    {
-        "korean": "베개",
-        "english": "pillow",
-        "vietnamese": "gối",
-        "audio": "tv-eps-b2-2025-26.mp3"
-    },
-    {
-        "korean": "이불",
-        "english": "blanket",
-        "vietnamese": "chăn\/mền",
-        "audio": "tv-eps-b2-2025-27.mp3"
-    }
-]
+[{
+  "nguphap": "이에요/예요",
+  "loai": "명사 + 이에요/예요",
+  "ynghia": "Dùng trong tình huống thân mật, không cần lịch sự như 입니다. 입니다 được dùng trong các tình huống trang trọng như họp hành hoặc thuyết trình.",
+  "vidu": [
+    {"cau": "프엉 씨는 베트남 사람이에요.", "nghia": "Phương là người Việt Nam."},
+    {"cau": "이건 계산기예요.", "nghia": "Cái này là máy tính."},
+    {"cau": "그건 안경이에요.", "nghia": "Cái kia là kính."},
+    {"cau": "가: 어느 나라 사람이에요?", "nghia": "Bạn là người nước nào?"},
+    {"cau": "나: 베트남 사람이에요.", "nghia": "Tôi là người Việt Nam."}
+  ],
+  "luat": "Nếu danh từ có 받침 thì dùng 이에요, không có 받침 thì dùng 예요. Khi hỏi thuộc tính của chủ ngữ, dùng 이에요/예요? với ngữ điệu lên cao ở cuối câu."
+},
+{
+  "nguphap": "이/가 아니에요",
+  "loai": "명사 + 이/가 아니에요",
+  "ynghia": "Là dạng phủ định của 이에요. Trong tình huống trang trọng, dùng 이/가 아닙니다.",
+  "vidu": [
+    {"cau": "이건 화장품이 아닙니다.", "nghia": "Cái này không phải là mỹ phẩm."},
+    {"cau": "저는 인도 사람이 아니에요.", "nghia": "Tôi không phải là người Ấn Độ."},
+    {"cau": "그건 휴지가 아니에요.", "nghia": "Cái đó không phải là giấy vệ sinh."},
+    {"cau": "가: 이건 유수프 씨 우산이에요?", "nghia": "Đây có phải là ô của Yusuf không?"},
+    {"cau": "나: 아니요, 유수프 씨 우산이 아니에요.", "nghia": "Không, đây không phải là ô của Yusuf."}
+  ],
+  "luat": "Nếu danh từ có 받침 thì dùng 이 아니에요, không có 받침 thì dùng 가 아니에요. Dùng để phủ định thuộc tính của chủ ngữ."
+}]
