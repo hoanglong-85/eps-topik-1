@@ -1,82 +1,82 @@
 
 [
 {
-  "audio": "hoi-thoai-2-1.mp3",
-  "hinhanh": "hoi-thoai-2-1.jpg",
+  "audio": "hoi-thoai-3-1.mp3",
+  "hinhanh": "hoi-thoai-3-1.jpg",
   "hoithoai": [
     {
-      "speaker": "자하라",
-      "korean": "유진 씨, 이건 뭐예요?",
-      "vietnamese": "Yujin, cái này là gì?"
+      "speaker": "다라",
+      "korean": " 침대가 있어요?",
+      "vietnamese": "Có giường không?"
     },
     {
-      "speaker": "유진",
-      "korean": " 달력이에요.",
-      "vietnamese": "Đây là một cái lịch."
+      "speaker": "프엉",
+      "korean": "네, 침대가 있어요.",
+      "vietnamese": "Có, có giường."
     },
     {
-      "speaker": "자하라",
-      "korean": " 저건 뭐예요?",
-      "vietnamese": "Cái kia là gì?"
+      "speaker": "다라",
+      "korean": "옷장도 있어요?",
+      "vietnamese": "Có cả tủ quần áo không?"
     },
     {
-      "speaker": "유진",
-      "korean": "아, 저건 시계예요.",
-      "vietnamese": "À, đó là một cái đồng hồ."
+      "speaker": "프엉",
+      "korean": "아니요, 옷장은 없어요. 소파가 있어요.",
+      "vietnamese": "Không, không có tủ quần áo. Có một chiếc ghế sofa."
     }
   ],
   "questions": [
     {
-      "korean_question": "이건 달력이에요?",
-      "vietnamese_question": "Cái này có phải là lịch không?",
-      "korean_answer": "네, 이건 달력이에요.",
-      "vietnamese_answer": "Vâng, đây là lịch."
+      "korean_question": "옷장이 있어요?",
+      "vietnamese_question": "Có tủ quần áo không?",
+      "korean_answer": "아니요, 옷장은 없어요.",
+      "vietnamese_answer": "Không, không có tủ quần áo."
     },
     {
-      "korean_question": "저건 뭐예요?",
-      "vietnamese_question": "Cái kia là gì?",
-      "korean_answer": "저건 시계예요.",
-      "vietnamese_answer": "Cái kia là đồng hồ."
+      "korean_question": "소파가 있어요?",
+      "vietnamese_question": "Có ghế sofa không?",
+      "korean_answer": "네, 소파가 있어요.",
+      "vietnamese_answer": "Có, có ghế sofa."
     }
   ]
  },
  {
-  "audio": "hoi-thoai-2-2.mp3",
-  "hinhanh": "hoi-thoai-2-2.jpg",
+  "audio": "hoi-thoai-3-2.mp3",
+  "hinhanh": "hoi-thoai-3-2.jpg",
   "hoithoai":[
     {
-      "speaker": "유수프",
-      "korean": "아궁 씨, 이건 마두 씨의 가방이에요?",
-      "vietnamese": "Agung, đây có phải là túi của Madhu không?"
+      "speaker": "마두",
+      "korean": "닛차난 씨는 어디에 있어요?",
+      "vietnamese": "Nitchanan đang ở đâu?"
     },
     {
-      "speaker": "아궁",
-      "korean": "아니요, 제 가방이에요.",
-      "vietnamese": "Không, đây là túi của tôi."
+      "speaker": "자하라",
+      "korean": "식당에 있어요.",
+      "vietnamese": "Cô ấy đang ở nhà hàng."
     },
     {
-      "speaker": "유수프",
-      "korean": "이건 뭐예요?",
-      "vietnamese": "Cái này là gì?"
+      "speaker": "마두",
+      "korean": "아지자 씨도 식당에 있어요?",
+      "vietnamese": "Aziza cũng ở nhà hàng à?"
     },
     {
-      "speaker": "아궁",
-      "korean": "마두 씨의 가족사진이에요.",
-      "vietnamese": "Đây là ảnh gia đình của Madhu."
+      "speaker": "자하라",
+      "korean": "아니요, 아지자 씨는 미용실에 있어요.",
+      "vietnamese": "Không, Aziza đang ở tiệm tóc."
     }
   ],
   "questions": [
     {
-      "korean_question": "이건 누구의 가방이에요?",
-      "vietnamese_question": "Đây là túi của ai?",
-      "korean_answer": "이건 아궁 씨의 가방이에요.",
-      "vietnamese_answer": "Đây là túi của Agung."
+      "korean_question": "닛차난 씨는 식당에 있어요?",
+      "vietnamese_question": "Nitchanan có ở nhà hàng không?",
+      "korean_answer": "네, 닛차난 씨는 식당에 있어요.",
+      "vietnamese_answer": "Vâng, Nitchanan đang ở nhà hàng."
     },
     {
-      "korean_question": "이건 아궁 씨의 가족사진이에요?",
-      "vietnamese_question": "Đây có phải là ảnh gia đình của Agung không?",
-      "korean_answer": "아니요, 이건 마두 씨의 가족사진이에요.",
-      "vietnamese_answer": "Không, đây là ảnh gia đình của Madhu."
+      "korean_question": "아지자 씨는 어디에 있어요?",
+      "vietnamese_question": "Aziza đang ở đâu?",
+      "korean_answer": "아지자 씨는 미용실에 있어요.",
+      "vietnamese_answer": "Aziza đang ở tiệm tóc."
     }
   ]
  }
