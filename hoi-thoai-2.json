@@ -1,0 +1,84 @@
+
+[
+{
+  "audio": "hoi-thoai-2-1.mp3",
+  "hinhanh": "hoi-thoai-2-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "자하라",
+      "korean": "유진 씨, 이건 뭐예요?",
+      "vietnamese": "Yujin, cái này là gì?"
+    },
+    {
+      "speaker": "유진",
+      "korean": " 달력이에요.",
+      "vietnamese": "Đây là một cái lịch."
+    },
+    {
+      "speaker": "자하라",
+      "korean": " 저건 뭐예요?",
+      "vietnamese": "Cái kia là gì?"
+    },
+    {
+      "speaker": "유진",
+      "korean": "아, 저건 시계예요.",
+      "vietnamese": "À, đó là một cái đồng hồ."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "이건 달력이에요?",
+      "vietnamese_question": "Cái này có phải là lịch không?",
+      "korean_answer": "네, 이건 달력이에요.",
+      "vietnamese_answer": "Vâng, đây là lịch."
+    },
+    {
+      "korean_question": "저건 뭐예요?",
+      "vietnamese_question": "Cái kia là gì?",
+      "korean_answer": "저건 시계예요.",
+      "vietnamese_answer": "Cái kia là đồng hồ."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-2-2.mp3",
+  "hinhanh": "hoi-thoai-2-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "유수프",
+      "korean": "아궁 씨, 이건 마두 씨의 가방이에요?",
+      "vietnamese": "Agung, đây có phải là túi của Madhu không?"
+    },
+    {
+      "speaker": "아궁",
+      "korean": "아니요, 제 가방이에요.",
+      "vietnamese": "Không, đây là túi của tôi."
+    },
+    {
+      "speaker": "유수프",
+      "korean": "이건 뭐예요?",
+      "vietnamese": "Cái này là gì?"
+    },
+    {
+      "speaker": "아궁",
+      "korean": "마두 씨의 가족사진이에요.",
+      "vietnamese": "Đây là ảnh gia đình của Madhu."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "이건 누구의 가방이에요?",
+      "vietnamese_question": "Đây là túi của ai?",
+      "korean_answer": "이건 아궁 씨의 가방이에요.",
+      "vietnamese_answer": "Đây là túi của Agung."
+    },
+    {
+      "korean_question": "이건 아궁 씨의 가족사진이에요?",
+      "vietnamese_question": "Đây có phải là ảnh gia đình của Agung không?",
+      "korean_answer": "아니요, 이건 마두 씨의 가족사진이에요.",
+      "vietnamese_answer": "Không, đây là ảnh gia đình của Madhu."
+    }
+  ]
+ }
+ ]
+
