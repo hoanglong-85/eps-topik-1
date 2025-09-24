@@ -1,0 +1,42 @@
+[{
+  "title": {
+    "korean": "양력과 음력",
+    "vietnamese": "Dương lịch và âm lịch"
+  },
+  "data": [
+    {
+      "korean": "한국의 달력을 보면 큰 숫자와 함께 작은 숫자로 날짜가 적혀 있는 것을 볼 수 있습니다. 큰 숫자는 양력을 기준으로 한 날짜이고, 작은 숫자는 음력을 기준으로 한 날짜입니다. 한국에서는 양력과 함께 음력을 아직 사용하기 때문에 달력에도 양력과 음력을 함께 표시해 줍니다.",
+      "vietnamese": "Nếu nhìn vào lịch của Hàn Quốc, bạn có thể thấy ngày được viết bằng con số lớn cùng với con số nhỏ. Con số lớn là ngày tháng dựa trên dương lịch, con số nhỏ là ngày tháng dựa trên âm lịch. Ở Hàn Quốc vẫn sử dụng lịch dương và lịch âm, vì vậy trên lịch có biểu thị lịch dương và lịch âm."
+    },
+    {
+      "korean": "회사나 학교, 정부 기관 등의 일정은 모두 양력을 기준으로 합니다. 광복절이나 한글날 등 국경일이나 법정 공휴일도 양력이 기준입니다. 그러나 전통 명절인 설날이나 추석은 음력을 기준으로 합니다. 그래서 한국에는 양력 1월 1일과 음력 1월 1일, 새해 첫날이 두 번 있습니다. 그리고 개인의 종교가 존중되는 한국에서는 예수님과 부처님의 탄생일이 모두 공휴일인데, 예수님의 탄생일인 크리스마스(12월 25일)는 양력을 기준으로, 부처님의 탄생일(4월 8일)은 음력을 기준으로 기념합니다.",
+      "vietnamese": "Lịch trình của các cơ quan chính phủ, trường học, công ty đều lấy tiêu chuẩn dương lịch. Các ngày quốc lễ hoặc ngày nghỉ công như Ngày Giải phóng và Ngày Chữ Hàn đều dựa trên dương lịch. Tuy nhiên, ngày lễ truyền thống Tết Nguyên Đán hoặc Trung thu lại lấy tiêu chuẩn là âm lịch. Vì vậy ở Hàn Quốc có 2 lần ngày 1 tháng 1 dương lịch và ngày 1 tháng 1 âm lịch là ngày đầu tiên của năm mới. Ở Hàn Quốc, nơi tôn trọng tôn giáo cá nhân, ngày sinh của Chúa Giêsu và Đức Phật đều là ngày nghỉ công: Giáng sinh (25 tháng 12) dựa trên dương lịch và ngày sinh của Đức Phật (8 tháng 4) dựa trên âm lịch."
+    },
+    {
+      "korean": "생일의 경우에도 양력을 기준으로 하는 사람이 있고, 음력을 기준으로 하는 사람이 있습니다. 이렇게 양력과 음력이 함께 쓰이고 있어서 진짜 생일이 아닌 날에 백화점이나 병원 등으로부터 '고객님, 생일 축하합니다.'라는 문자를 받는 해프닝이 일어나기도 합니다.",
+      "vietnamese": "Trong trường hợp sinh nhật, cũng có những người dựa trên dương lịch, cũng có những người dựa trên âm lịch. Vì trên lịch có viết cả lịch dương và lịch âm, nên có thể hôm nay không phải là sinh nhật của mình mà vẫn nhận được tin nhắn 'Chúc mừng sinh nhật quý khách' từ trung tâm thương mại hoặc bệnh viện."
+    }
+  ],
+  "voca": {
+    "양력": "Dương lịch",
+    "명절": "Ngày lễ",
+    "음력": "Âm lịch",
+    "설날": "Tết âm lịch",
+    "기준": "Tiêu chuẩn",
+    "추석": "Lễ trung thu",
+    "표시하다": "Biểu thị, biểu hiện",
+    "개인": "Cá nhân",
+    "정부 기관": "Cơ quan chính phủ",
+    "예수님": "Chúa Jesu",
+    "일정": "Lịch trình",
+    "부처님": "Đức Phật",
+    "광복절": "Ngày giải phóng",
+    "탄생일": "Ngày sinh (cách nói kính trọng)",
+    "한글날": "Ngày chữ Hàn",
+    "크리스마스": "Lễ giáng sinh",
+    "국경일": "Ngày quốc lễ",
+    "기념하다": "Kỷ niệm",
+    "법정 공휴일": "Ngày nghỉ lễ theo luật quy định",
+    "고객님": "Quý khách"
+  }
+}]

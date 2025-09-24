@@ -1,0 +1,24 @@
+[{
+  "nguphap": "에 (시간)",
+  "loai": "시간 명사 + 에",
+  "ynghia": "에 khi kết hợp với danh từ chỉ thời gian dùng để chỉ thời điểm xảy ra một sự việc. Khi kết hợp với danh từ chỉ địa điểm, dùng để chỉ nơi tồn tại của người hoặc vật, hoặc mục đích di chuyển.",
+  "vidu": [
+    {"cau": "월요일에 일해요.", "nghia": "Làm việc vào thứ Hai."},
+    {"cau": "금요일에 영화를 봐요.", "nghia": "Xem phim vào thứ Sáu."},
+    {"cau": "주말에 쉬어요.", "nghia": "Nghỉ vào cuối tuần."},
+    {"cau": "다라 씨는 회사에 있어요.", "nghia": "Dara ở công ty."},
+    {"cau": "푸캄 씨는 집에 가요.", "nghia": "Fukam đi về nhà."}
+  ],
+  "luat": "Không dùng 에 với các từ chỉ thời gian như 어제, 오늘, 내일, 지금. Dùng sau danh từ chỉ thời gian để chỉ thời điểm, sau danh từ chỉ địa điểm để chỉ nơi hoặc mục đích di chuyển."
+},
+{
+  "nguphap": "-았/었-",
+  "loai": "동사/형용사 + -았/었-",
+  "ynghia": "Dùng để diễn tả hành động hoặc tình huống đã xảy ra trong quá khứ.",
+  "vidu": [
+    {"cau": "작년에 한국에 왔어요.", "nghia": "Năm ngoái tôi đã đến Hàn Quốc."},
+    {"cau": "어제 빵을 먹었어요.", "nghia": "Hôm qua tôi đã ăn bánh mì."},
+    {"cau": "지난주에 쇼핑했어요.", "nghia": "Tuần trước tôi đã đi mua sắm."}
+  ],
+  "luat": "Nguyên âm ㅏ, ㅗ → -았- (자다 → 잤어요), nguyên âm ㅓ, ㅜ, ㅣ… → -었- (먹다 → 먹었어요), động từ kết thúc bằng -하다 → -했- (일하다 → 일했어요)."
+}]

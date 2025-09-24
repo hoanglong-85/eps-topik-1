@@ -1,0 +1,84 @@
+
+[
+{
+  "audio": "hoi-thoai-5-1.mp3",
+  "hinhanh": "hoi-thoai-5-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "칼로",
+      "korean": " 푸캄 씨, 주말에 뭐 해요?",
+      "vietnamese": "Phukham, bạn làm gì vào cuối tuần?"
+    },
+    {
+      "speaker": "푸캄",
+      "korean": "토요일에 한국어를 공부해요. 일요일에 운동해요.",
+      "vietnamese": "Tôi học tiếng Hàn vào thứ Bảy. Tôi tập thể dục vào Chủ nhật."
+    },
+    {
+      "speaker": "칼로",
+      "korean": "오늘은 뭐 해요?",
+      "vietnamese": "Hôm nay bạn làm gì?"
+    },
+    {
+      "speaker": "푸캄",
+      "korean": "오늘은 영화를 봐요.",
+      "vietnamese": "Hôm nay tôi xem phim."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "푸캄 씨는 매일 한국어를 배워요?",
+      "vietnamese_question": "Phukham có học tiếng Hàn mỗi ngày không?",
+      "korean_answer": "아니요, 푸캄 씨는 토요일에 한국어를 공부해요.",
+      "vietnamese_answer": "Không, Phukham học tiếng Hàn vào thứ Bảy."
+    },
+    {
+      "korean_question": "푸캄 씨는 일요일에 뭐 해요?",
+      "vietnamese_question": "Phukham làm gì vào Chủ nhật?",
+      "korean_answer": "일요일에 운동해요.",
+      "vietnamese_answer": "Anh ấy tập thể dục vào Chủ nhật."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-5-2.mp3",
+  "hinhanh": "hoi-thoai-5-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "프엉",
+      "korean": "생일이 언제예요?",
+      "vietnamese": "Sinh nhật của bạn khi nào?"
+    },
+    {
+      "speaker": "다라",
+      "korean": "5월 20일이에요.",
+      "vietnamese": "Là ngày 20 tháng 5."
+    },
+    {
+      "speaker": "프엉",
+      "korean": "생일에 뭐 했어요?",
+      "vietnamese": "Bạn đã làm gì trong ngày sinh nhật?"
+    },
+    {
+      "speaker": "다라",
+      "korean": "친구가 기숙사에 왔어요. 케이크를 먹었어요.",
+      "vietnamese": "Bạn tôi đã đến ký túc xá. Chúng tôi đã ăn bánh kem."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "다라 씨 생일은 언제예요?",
+      "vietnamese_question": "Sinh nhật của Dara khi nào?",
+      "korean_answer": "다라 씨 생일은 5월 20일이에요.",
+      "vietnamese_answer": "Sinh nhật của Dara là ngày 20 tháng 5."
+    },
+    {
+      "korean_question": "다라 씨는 생일에 뭐 했어요?",
+      "vietnamese_question": "Dara đã làm gì trong ngày sinh nhật?",
+      "korean_answer": "친구가 기숙사에 왔어요. 케이크를 먹었어요.",
+      "vietnamese_answer": "Bạn bè đến ký túc xá và chúng tôi đã ăn bánh kem."
+    }
+  ]
+ }
+ ]
+
