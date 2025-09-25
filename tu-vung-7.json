@@ -1,0 +1,182 @@
+[
+    {
+        "korean": "춥다",
+        "english": "to be cold (weather)",
+        "vietnamese": "lạnh (thời tiết)",
+        "audio": "tv-eps-b7-2025-1.mp3"
+    },
+    {
+        "korean": "덥다",
+        "english": "to be hot (weather)",
+        "vietnamese": "nóng (thời tiết)",
+        "audio": "tv-eps-b7-2025-2.mp3"
+    },
+    {
+        "korean": "시원하다",
+        "english": "to be cool",
+        "vietnamese": "mát mẻ",
+        "audio": "tv-eps-b7-2025-3.mp3"
+    },
+    {
+        "korean": "계절",
+        "english": "seasons",
+        "vietnamese": "mùa",
+        "audio": "tv-eps-b7-2025-4.mp3"
+    },
+    {
+        "korean": "봄",
+        "english": "spring",
+        "vietnamese": "mùa xuân",
+        "audio": "tv-eps-b7-2025-5.mp3"
+    },
+    {
+        "korean": "여름",
+        "english": "summer",
+        "vietnamese": "mùa hè",
+        "audio": "tv-eps-b7-2025-6.mp3"
+    },
+    {
+        "korean": "가을",
+        "english": "fall\/autumn",
+        "vietnamese": "mùa thu",
+        "audio": "tv-eps-b7-2025-7.mp3"
+    },
+    {
+        "korean": "겨울",
+        "english": "winter",
+        "vietnamese": "mùa đông",
+        "audio": "tv-eps-b7-2025-8.mp3"
+    },
+    {
+        "korean": "쉽다",
+        "english": "to be easy",
+        "vietnamese": "dễ",
+        "audio": "tv-eps-b7-2025-9.mp3"
+    },
+    {
+        "korean": "어렵다",
+        "english": "to be difficult",
+        "vietnamese": "khó",
+        "audio": "tv-eps-b7-2025-10.mp3"
+    },
+    {
+        "korean": "차갑다",
+        "english": "to be cold (for objects)",
+        "vietnamese": "lạnh (vật)",
+        "audio": "tv-eps-b7-2025-11.mp3"
+    },
+    {
+        "korean": "뜨겁다",
+        "english": "to be hot (for objects)",
+        "vietnamese": "nóng (vật)",
+        "audio": "tv-eps-b7-2025-12.mp3"
+    },
+    {
+        "korean": "너무",
+        "english": "too (much)",
+        "vietnamese": "quá, rất",
+        "audio": "tv-eps-b7-2025-13.mp3"
+    },
+    {
+        "korean": "조금",
+        "english": "a little",
+        "vietnamese": "một chút",
+        "audio": "tv-eps-b7-2025-14.mp3"
+    },
+    {
+        "korean": "영어",
+        "english": "English (language)",
+        "vietnamese": "tiếng Anh",
+        "audio": "tv-eps-b7-2025-15.mp3"
+    },
+    {
+        "korean": "어때요?",
+        "english": "How is it?",
+        "vietnamese": "Thế nào? \/ Sao rồi?",
+        "audio": "tv-eps-b7-2025-16.mp3"
+    },
+    {
+        "korean": "날씨",
+        "english": "weather",
+        "vietnamese": "thời tiết",
+        "audio": "tv-eps-b7-2025-17.mp3"
+    },
+    {
+        "korean": "날씨가 좋다",
+        "english": "to have good weather",
+        "vietnamese": "thời tiết tốt",
+        "audio": "tv-eps-b7-2025-18.mp3"
+    },
+    {
+        "korean": "날씨가 나쁘다",
+        "english": "to have bad weather",
+        "vietnamese": "thời tiết xấu",
+        "audio": "tv-eps-b7-2025-19.mp3"
+    },
+    {
+        "korean": "바람이 불다",
+        "english": "to be windy",
+        "vietnamese": "gió thổi",
+        "audio": "tv-eps-b7-2025-20.mp3"
+    },
+    {
+        "korean": "맑다",
+        "english": "to be clear",
+        "vietnamese": "trong xanh",
+        "audio": "tv-eps-b7-2025-21.mp3"
+    },
+    {
+        "korean": "흐리다",
+        "english": "to be cloudy",
+        "vietnamese": "nhiều mây",
+        "audio": "tv-eps-b7-2025-22.mp3"
+    },
+    {
+        "korean": "비가 오다",
+        "english": "to rain",
+        "vietnamese": "mưa rơi",
+        "audio": "tv-eps-b7-2025-23.mp3"
+    },
+    {
+        "korean": "비가 그치다",
+        "english": "to stop raining",
+        "vietnamese": "tạnh mưa",
+        "audio": "tv-eps-b7-2025-24.mp3"
+    },
+    {
+        "korean": "눈이 오다",
+        "english": "to snow",
+        "vietnamese": "tuyết rơi",
+        "audio": "tv-eps-b7-2025-25.mp3"
+    },
+    {
+        "korean": "눈이 그치다",
+        "english": "to stop snowing",
+        "vietnamese": "tạnh tuyết",
+        "audio": "tv-eps-b7-2025-26.mp3"
+    },
+    {
+        "korean": "많이",
+        "english": "many \/ much",
+        "vietnamese": "nhiều",
+        "audio": "tv-eps-b7-2025-27.mp3"
+    },
+    {
+        "korean": "정말",
+        "english": "really \/ truly",
+        "vietnamese": "thật sự, thật là",
+        "audio": "tv-eps-b7-2025-28.mp3"
+    },
+    {
+        "korean": "별로",
+        "english": "not really",
+        "vietnamese": "không… lắm \/ không mấy",
+        "audio": "tv-eps-b7-2025-29.mp3"
+    },
+    {
+        "korean": "여보세요?",
+        "english": "hello? (on the phone)",
+        "vietnamese": "A lô? (khi gọi điện)",
+        "audio": "tv-eps-b7-2025-30.mp3"
+    }
+]

@@ -1,0 +1,89 @@
+
+[
+{
+  "audio": "hoi-thoai-7-1.mp3",
+  "hinhanh": "hoi-thoai-7-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "칼로",
+      "korean": " 자야 씨는 무슨 계절을 좋아해요?",
+      "vietnamese": "Jaya, bạn thích mùa nào?"
+    },
+    {
+      "speaker": "자야",
+      "korean": "저는 여름을 좋아해요.",
+      "vietnamese": "Tôi thích mùa hè."
+    },
+    {
+      "speaker": "칼로",
+      "korean": "몽골의 겨울은 어때요?",
+      "vietnamese": "Mùa đông ở Mông Cổ thế nào?"
+    },
+    {
+      "speaker": "자야",
+      "korean": "몽골의 겨울은 너무 추워요.",
+      "vietnamese": "Mùa đông ở Mông Cổ rất lạnh."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "자야 씨는 무슨 계절을 좋아해요?",
+      "vietnamese_question": "Jaya thích mùa nào?",
+      "korean_answer": "저는 여름을 좋아해요.",
+      "vietnamese_answer": "Tôi thích mùa hè."
+    },
+    {
+      "korean_question": "몽골의 겨울은 날씨가 어때요?",
+      "vietnamese_question": "Thời tiết mùa đông ở Mông Cổ thế nào?",
+      "korean_answer": "몽골의 겨울은 너무 추워요.",
+      "vietnamese_answer": "Mùa đông ở Mông Cổ rất lạnh."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-7-2.mp3",
+  "hinhanh": "hoi-thoai-7-2.jpg",
+  "hoithoai": [
+    {
+      "speaker": "여보세요",
+      "korean": "여보세요? 투이 씨, 하노이는 지금 날씨가 어때요?",
+      "vietnamese": "Alo? Thuy, thời tiết ở Hà Nội bây giờ thế nào?"
+    },
+    {
+      "speaker": "투이",
+      "korean": "비가 많이 와요. 서울에도 비가 와요?",
+      "vietnamese": "Trời mưa nhiều. Ở Seoul cũng mưa à?"
+    },
+    {
+      "speaker": "다라",
+      "korean": "아니요, 비가 안 와요.",
+      "vietnamese": "Không, trời không mưa."
+    },
+    {
+      "speaker": "투이",
+      "korean": "그럼 많이 더워요?",
+      "vietnamese": "Vậy thì trời rất nóng à?"
+    },
+    {
+      "speaker": "다라",
+      "korean": "오늘은 바람이 불어요. 별로 안 더워요.",
+      "vietnamese": "Hôm nay có gió. Không quá nóng."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "하노이는 지금 날씨가 좋아요?",
+      "vietnamese_question": "Thời tiết ở Hà Nội bây giờ có tốt không?",
+      "korean_answer": "아니요, 비가 많이 와요.",
+      "vietnamese_answer": "Không, trời mưa nhiều."
+    },
+    {
+      "korean_question": "서울은 오늘 날씨가 어때요?",
+      "vietnamese_question": "Thời tiết ở Seoul hôm nay thế nào?",
+      "korean_answer": "비가 안 와요. 오늘은 바람이 불어요.",
+      "vietnamese_answer": "Trời không mưa. Hôm nay có gió."
+    }
+  ]
+ }
+ ]
+

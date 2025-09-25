@@ -1,0 +1,25 @@
+[{
+  "nguphap": "‘ㅂ’ 불규칙 활용",
+  "loai": "동사/형용사 어간 끝 ‘ㅂ’ + 모음으로 시작하는 어미",
+  "ynghia": "Một số động từ hoặc tính từ kết thúc bằng ‘ㅂ’ sẽ biến đổi ‘ㅂ’ thành ‘우’ khi kết hợp với các đuôi bắt đầu bằng nguyên âm.",
+  "vidu": [
+    {"cau": "새 바지를 입었어요.", "nghia": "Tôi đã mặc quần mới."},
+    {"cau": "날씨가 너무 더워요.", "nghia": "Thời tiết quá nóng."},
+    {"cau": "가: 영어 공부가 어때요?", "nghia": "Học tiếng Anh thế nào rồi?"},
+    {"cau": "나: 조금 어려워요.", "nghia": "Khó một chút."}
+  ],
+  "luat": "Một số động từ/tính từ kết thúc bằng ‘ㅂ’ (ví dụ: 덥다, 어렵다) khi gặp đuôi bắt đầu bằng nguyên âm sẽ đổi ‘ㅂ’ → ‘우’. Một số động từ/tính từ khác (ví dụ: 잡다, 입다, 좁다) vẫn dùng quy tắc thông thường."
+},
+{
+  "nguphap": "안",
+  "loai": "안 + 동사/형용사",
+  "ynghia": "안 đặt trước động từ hoặc tính từ để phủ định hành động hoặc trạng thái, hoặc chỉ rằng chủ ngữ không muốn thực hiện hành động.",
+  "vidu": [
+    {"cau": "비가 안 와요.", "nghia": "Trời không mưa."},
+    {"cau": "흐엉은 기분이 안 좋아요.", "nghia": "Huong không vui."},
+    {"cau": "오늘은 일 안 해요.", "nghia": "Hôm nay tôi không làm việc."},
+    {"cau": "나는 운동 안 해요.", "nghia": "Tôi không tập thể dục."},
+    {"cau": "비가 오지 않아요.", "nghia": "Trời không mưa."}
+  ],
+  "luat": "Khi phủ định động từ kết hợp danh từ + -하다, 안 đặt giữa danh từ và 하다. Có thể dùng -지 않다 sau động từ hoặc tính từ thay cho 안 để biểu thị phủ định."
+}]

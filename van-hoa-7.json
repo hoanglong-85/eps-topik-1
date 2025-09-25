@@ -1,0 +1,50 @@
+[{
+  "title": {
+    "korean": "날씨",
+    "vietnamese": "Thời tiết"
+  },
+  "data": [
+    {
+      "korean": "한국은 봄, 여름, 가을, 겨울 사계절이 뚜렷한 나라입니다. 봄(3월~5월)은 따뜻하며, 벚꽃, 영산홍과 같은 아름다운 꽃이 많이 핍니다. 사람들은 봄맞이 꽃구경도 가고 아름다운 봄 경치를 즐깁니다.",
+      "vietnamese": "Hàn Quốc là quốc gia có bốn mùa rõ rệt: xuân, hạ, thu, đông. Mùa xuân (tháng 3 đến tháng 5) ấm áp, có rất nhiều loài hoa đẹp nở như hoa anh đào, hoa đỗ quyên. Mọi người đi ngắm hoa và thưởng thức phong cảnh đẹp mùa xuân."
+    },
+    {
+      "korean": "여름(6월~8월)에는 덥고 비가 많이 옵니다. 장마가 끝나고 30도가 넘는 무더위가 시작되면 사람들은 아름다운 해변이나 계곡으로 휴가를 떠납니다. 밤에는 열대야로 잠을 설치기도 합니다.",
+      "vietnamese": "Mùa hè (tháng 6 đến tháng 8), trời nóng và mưa nhiều. Khi mùa mưa kết thúc, cái nóng trên 30 độ bắt đầu, mọi người sẽ đi nghỉ mát ở bãi biển hoặc thung lũng xinh đẹp. Vào ban đêm, vì cái nóng nhiệt đới nên cũng có khi khó ngủ."
+    },
+    {
+      "korean": "가을(9월~11월)에는 맑고 시원한 날씨가 이어집니다. 형형색색으로 곱게 물든 단풍을 보기 위해 산으로 여행을 떠나는 사람들이 많습니다. 날씨가 좋아 학교 운동회나 축제 등과 같은 중요한 행사가 많이 열립니다.",
+      "vietnamese": "Mùa thu (từ tháng 9 đến tháng 11), thời tiết trong lành và mát mẻ kéo dài. Lá phong nhuốm màu sắc đẹp đẽ nên có rất nhiều người lên núi du lịch ngắm lá đỏ. Thời tiết đẹp nên các trường học thường tổ chức nhiều sự kiện quan trọng như đại hội thể thao hay lễ hội vào mùa thu."
+    },
+    {
+      "korean": "겨울(12월~2월)은 영하 10도까지 내려갈 정도로 매우 춥고, 강물이 얼기도 합니다. 높은 지대에는 눈이 많이 내려 스키나 스케이트보드 등 겨울 스포츠를 즐기는 사람들이 많습니다. 3일은 춥고, 4일은 따뜻한 '3한4온' 현상이 나타나기도 합니다.",
+      "vietnamese": "Mùa đông (tháng 12 - tháng 2) rất lạnh, nhiệt độ hạ xuống đến âm 10 độ C, nước sông cũng đóng băng. Ở vùng cao, tuyết rơi nhiều và có nhiều người thích các môn thể thao mùa đông như trượt tuyết và trượt ván. Mùa đông cũng xuất hiện hiện tượng '3한4온', tức là 3 ngày lạnh, 4 ngày ấm."
+    },
+    {
+      "korean": "한국 사람들은 너무 더운 여름이나 너무 추운 겨울보다 시원하고 경치가 아름다운 봄과 가을을 좋아합니다. 그러나 요즘은 이상 기온으로 봄과 가을이 짧아진 것 같다고 많은 사람들이 이야기합니다.",
+      "vietnamese": "So với mùa hè quá nóng hoặc mùa đông quá lạnh, người Hàn Quốc thích mùa xuân ấm áp và mùa thu mát mẻ, phong cảnh đẹp hơn. Tuy nhiên, nhiều người nói rằng dạo này nhiệt độ bất thường nên mùa xuân và mùa thu dường như ngắn hơn."
+    }
+  ],
+  "voca": {
+    "벚꽃": "Hoa anh đào",
+    "사계절": "Bốn mùa",
+    "뚜렷하다": "Rõ rệt, rõ ràng",
+    "영산홍": "Hoa đỗ quyên",
+    "피다": "Nở, bùng lên",
+    "봄맞이": "Đón xuân, trò chơi mùa xuân",
+    "즐기다": "Tận hưởng",
+    "장마": "Mùa mưa",
+    "무덥다": "Oi bức",
+    "계곡": "Thung lũng",
+    "열대야": "Đêm nhiệt đới",
+    "형형색색": "Đa hình đa sắc",
+    "곱다": "Đẹp, thanh thoát",
+    "단풍": "Lá phong, thu vàng",
+    "중요하다": "Quan trọng",
+    "영하": "Độ âm",
+    "지대": "Vùng đất",
+    "스케이트보드": "Ván trượt băng",
+    "스포츠": "Thể thao",
+    "이상 기온": "Khí hậu khác thường"
+  }
+}]
