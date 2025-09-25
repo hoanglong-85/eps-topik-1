@@ -1,0 +1,79 @@
+
+[
+{
+  "audio": "hoi-thoai-6-1.mp3",
+  "hinhanh": "hoi-thoai-6-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "진수",
+      "korean": " 칼로 씨, 지금 몇 시입니까?",
+      "vietnamese": "Carlo, bây giờ mấy giờ?"
+    },
+    {
+      "speaker": "칼로",
+      "korean": "5시 반입니다.",
+      "vietnamese": "Bây giờ là 5 giờ 30."
+    },
+    {
+      "speaker": "진수",
+      "korean": "몇 시에 집에 갑니까?",
+      "vietnamese": "Bạn sẽ về nhà lúc mấy giờ?"
+    },
+    {
+      "speaker": "칼로",
+      "korean": "저녁 8시에 집에 갑니다.",
+      "vietnamese": "Tôi sẽ về nhà lúc 8 giờ tối."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "지금 몇 시입니까?",
+      "vietnamese_question": "Bây giờ là mấy giờ?",
+      "korean_answer": "지금 5시 반입니다.",
+      "vietnamese_answer": "Bây giờ là 5 giờ 30."
+    },
+    {
+      "korean_question": "칼로 씨는 오늘 몇 시에 집에 갑니까?",
+      "vietnamese_question": "Carlo hôm nay sẽ về nhà lúc mấy giờ?",
+      "korean_answer": "칼로 씨는 저녁 8시에 집에 갑니다.",
+      "vietnamese_answer": "Carlo sẽ về nhà lúc 8 giờ tối."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-6-2.mp3",
+  "hinhanh": "hoi-thoai-6-2.jpg",
+  "hoithoai": [
+    {
+      "speaker": "유유진",
+      "korean": "유수프 씨, 어제 뭘 했습니까?",
+      "vietnamese": "Yusuf, hôm qua bạn đã làm gì?"
+    },
+    {
+      "speaker": "유수프",
+      "korean": "마트에서 장을 봤습니다. 그리고 친구를 만났습니다. 유진 씨는 뭘 했습니까?",
+      "vietnamese": "Tôi đã đi chợ mua sắm. Và tôi đã gặp một người bạn. Còn bạn thì sao, Yujin?"
+    },
+    {
+      "speaker": "유유진",
+      "korean": "저는 공원에서 운동했습니다.",
+      "vietnamese": "Tôi đã tập thể dục ở công viên."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "유수프 씨는 어제 뭘 했어요?",
+      "vietnamese_question": "Yusuf hôm qua đã làm gì?",
+      "korean_answer": "마트에서 장을 보고 친구를 만났습니다.",
+      "vietnamese_answer": "Anh ấy đã đi chợ mua sắm và gặp bạn bè."
+    },
+    {
+      "korean_question": "유진 씨는 어디에서 운동했어요?",
+      "vietnamese_question": "Yujin đã tập thể dục ở đâu?",
+      "korean_answer": "공원에서 운동했습니다.",
+      "vietnamese_answer": "Cô ấy đã tập thể dục ở công viên."
+    }
+  ]
+ }
+ ]
+

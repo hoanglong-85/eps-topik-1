@@ -1,0 +1,46 @@
+[{
+  "title": {
+    "korean": "직장인의 하루",
+    "vietnamese": "Một ngày của nhân viên văn phòng"
+  },
+  "data": [
+    {
+      "korean": "한국의 직장인들은 대부분 9시에 일을 시작합니다. 출근할 때는 지하철이나 버스와 같은 대중교통을 이용하기도 하고, 개인 승용차를 이용하기도 합니다. 출퇴근 시간에는 교통이 매우 혼잡하여 예기치 않은 일로 어려움을 겪기도 합니다.",
+      "vietnamese": "Hầu hết các nhân viên văn phòng Hàn Quốc bắt đầu làm việc lúc 9 giờ. Khi đi làm sử dụng các phương tiện giao thông công cộng như tàu điện ngầm, xe buýt hoặc dùng xe cá nhân. Vào giờ cao điểm, giao thông rất phức tạp và cũng có thể gặp khó khăn vì những việc bất ngờ."
+    },
+    {
+      "korean": "점심은 보통 12시에서 1시 사이에 구내식당에서 먹는데, 구내식당이 없으면 회사 근처의 식당에서 먹습니다. 점심은 같은 부서의 사람들과 회사에서 하지 못한 업무 이야기도 하면서 함께 먹는 경우가 많습니다. 일부 직장인들은 점심시간을 이용하여 간단한 취미 활동을 즐기기도 합니다.",
+      "vietnamese": "Bữa trưa thường được ăn ở nhà ăn nội bộ từ 12h đến 1h, nếu không có nhà ăn nội bộ thì ăn ở nhà hàng gần công ty. Bữa trưa thường ăn chung với những người cùng phòng ban và nói về những việc chưa được giải quyết. Một số nhân viên văn phòng sử dụng giờ ăn trưa để tận hưởng các hoạt động sở thích đơn giản."
+    },
+    {
+      "korean": "퇴근은 대부분 6시에 하지만 일을 다 끝내지 못했을 때는 야근을 합니다. 퇴근 후에는 쌓인 피로와 스트레스를 풀고, 팀워크를 다지기 위해 상사나 동료들과 회식을 할 때도 있습니다.",
+      "vietnamese": "Hầu hết tan làm lúc 6 giờ nhưng khi chưa làm xong việc thì phải làm thêm giờ. Sau giờ làm việc, cũng có những bữa liên hoan với sếp hoặc đồng nghiệp để giải tỏa mệt mỏi, căng thẳng."
+    },
+    {
+      "korean": "어떤 사람들은 출근 전이나 퇴근 후에 자신의 건강을 위해 운동을 하거나, 자기 계발을 위해 외국어 학원에 다니기도 합니다.",
+      "vietnamese": "Một số người tập thể dục vì sức khỏe hoặc đi học ở học viện ngoại ngữ để phát triển bản thân trước khi đi làm hoặc sau khi tan làm."
+    }
+  ],
+  "voca": {
+    "승용차": "Ô tô con",
+    "출퇴근 시간": "Thời gian tan tầm, giờ cao điểm",
+    "혼잡하다": "Hỗn loạn",
+    "예기치 않다": "Bất ngờ, không ngờ đến",
+    "겪다": "Trải qua, tiếp nhận, gặp phải",
+    "근처": "Gần",
+    "부서": "Bộ phận, phòng ban",
+    "끝내다/끝나다/마치다": "Kết thúc",
+    "야근을 하다": "Làm tăng ca đêm",
+    "쌓다": "Chất đống, tích lũy",
+    "피로": "Sự mệt mỏi",
+    "스트레스": "Căng thẳng",
+    "팀워크": "Sự làm việc nhóm",
+    "상사": "Cấp trên",
+    "회식을 하다": "Tiệc công ty",
+    "어떤": "Như thế nào",
+    "건강": "Sức khỏe",
+    "자기 계발": "Phát triển bản thân",
+    "자유롭다": "Tự do",
+    "타다": "Đi, lên, cưỡi, nhận"
+  }
+}]

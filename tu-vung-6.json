@@ -1,0 +1,314 @@
+[
+    {
+        "korean": "1시",
+        "english": "one o'clock",
+        "vietnamese": "1 giờ",
+        "audio": "tv-eps-b6-2025-1.mp3"
+    },
+    {
+        "korean": "2시",
+        "english": "two o'clock",
+        "vietnamese": "2 giờ",
+        "audio": "tv-eps-b6-2025-2.mp3"
+    },
+    {
+        "korean": "3시",
+        "english": "three o'clock",
+        "vietnamese": "3 giờ",
+        "audio": "tv-eps-b6-2025-3.mp3"
+    },
+    {
+        "korean": "4시",
+        "english": "four o'clock",
+        "vietnamese": "4 giờ",
+        "audio": "tv-eps-b6-2025-4.mp3"
+    },
+    {
+        "korean": "5시",
+        "english": "five o'clock",
+        "vietnamese": "5 giờ",
+        "audio": "tv-eps-b6-2025-5.mp3"
+    },
+    {
+        "korean": "6시",
+        "english": "six o'clock",
+        "vietnamese": "6 giờ",
+        "audio": "tv-eps-b6-2025-6.mp3"
+    },
+    {
+        "korean": "7시",
+        "english": "seven o'clock",
+        "vietnamese": "7 giờ",
+        "audio": "tv-eps-b6-2025-7.mp3"
+    },
+    {
+        "korean": "8시",
+        "english": "eight o'clock",
+        "vietnamese": "8 giờ",
+        "audio": "tv-eps-b6-2025-8.mp3"
+    },
+    {
+        "korean": "9시",
+        "english": "nine o'clock",
+        "vietnamese": "9 giờ",
+        "audio": "tv-eps-b6-2025-9.mp3"
+    },
+    {
+        "korean": "10시",
+        "english": "ten o'clock",
+        "vietnamese": "10 giờ",
+        "audio": "tv-eps-b6-2025-10.mp3"
+    },
+    {
+        "korean": "11시",
+        "english": "eleven o'clock",
+        "vietnamese": "11 giờ",
+        "audio": "tv-eps-b6-2025-11.mp3"
+    },
+    {
+        "korean": "12시",
+        "english": "twelve o'clock",
+        "vietnamese": "12 giờ",
+        "audio": "tv-eps-b6-2025-12.mp3"
+    },
+    {
+        "korean": "시",
+        "english": "hour",
+        "vietnamese": "giờ",
+        "audio": "tv-eps-b6-2025-13.mp3"
+    },
+    {
+        "korean": "오전",
+        "english": "a.m.",
+        "vietnamese": "buổi sáng (trước trưa)",
+        "audio": "tv-eps-b6-2025-14.mp3"
+    },
+    {
+        "korean": "오후",
+        "english": "p.m.",
+        "vietnamese": "buổi chiều (sau trưa)",
+        "audio": "tv-eps-b6-2025-15.mp3"
+    },
+    {
+        "korean": "5분",
+        "english": "five minutes",
+        "vietnamese": "5 phút",
+        "audio": "tv-eps-b6-2025-16.mp3"
+    },
+    {
+        "korean": "10분",
+        "english": "ten minutes",
+        "vietnamese": "10 phút",
+        "audio": "tv-eps-b6-2025-17.mp3"
+    },
+    {
+        "korean": "15분",
+        "english": "fifteen minutes",
+        "vietnamese": "15 phút",
+        "audio": "tv-eps-b6-2025-18.mp3"
+    },
+    {
+        "korean": "20분",
+        "english": "twenty minutes",
+        "vietnamese": "20 phút",
+        "audio": "tv-eps-b6-2025-19.mp3"
+    },
+    {
+        "korean": "25분",
+        "english": "twenty-five minutes",
+        "vietnamese": "25 phút",
+        "audio": "tv-eps-b6-2025-20.mp3"
+    },
+    {
+        "korean": "30분",
+        "english": "thirty minutes (half)",
+        "vietnamese": "30 phút (rưỡi)",
+        "audio": "tv-eps-b6-2025-21.mp3"
+    },
+    {
+        "korean": "35분",
+        "english": "thirty-five minutes",
+        "vietnamese": "35 phút",
+        "audio": "tv-eps-b6-2025-22.mp3"
+    },
+    {
+        "korean": "40분",
+        "english": "forty minutes",
+        "vietnamese": "40 phút",
+        "audio": "tv-eps-b6-2025-23.mp3"
+    },
+    {
+        "korean": "45분",
+        "english": "forty-five minutes",
+        "vietnamese": "45 phút",
+        "audio": "tv-eps-b6-2025-24.mp3"
+    },
+    {
+        "korean": "50분",
+        "english": "fifty minutes",
+        "vietnamese": "50 phút",
+        "audio": "tv-eps-b6-2025-25.mp3"
+    },
+    {
+        "korean": "55분",
+        "english": "fifty-five minutes",
+        "vietnamese": "55 phút",
+        "audio": "tv-eps-b6-2025-26.mp3"
+    },
+    {
+        "korean": "분",
+        "english": "minute",
+        "vietnamese": "phút",
+        "audio": "tv-eps-b6-2025-27.mp3"
+    },
+    {
+        "korean": "아침",
+        "english": "morning",
+        "vietnamese": "buổi sáng",
+        "audio": "tv-eps-b6-2025-28.mp3"
+    },
+    {
+        "korean": "점심",
+        "english": "afternoon\/lunch time",
+        "vietnamese": "buổi trưa",
+        "audio": "tv-eps-b6-2025-29.mp3"
+    },
+    {
+        "korean": "저녁",
+        "english": "evening",
+        "vietnamese": "buổi tối",
+        "audio": "tv-eps-b6-2025-30.mp3"
+    },
+    {
+        "korean": "새벽",
+        "english": "dawn",
+        "vietnamese": "rạng sáng",
+        "audio": "tv-eps-b6-2025-31.mp3"
+    },
+    {
+        "korean": "낮",
+        "english": "daytime",
+        "vietnamese": "ban ngày",
+        "audio": "tv-eps-b6-2025-32.mp3"
+    },
+    {
+        "korean": "밤",
+        "english": "night",
+        "vietnamese": "ban đêm",
+        "audio": "tv-eps-b6-2025-33.mp3"
+    },
+    {
+        "korean": "몇 시",
+        "english": "what time",
+        "vietnamese": "mấy giờ",
+        "audio": "tv-eps-b6-2025-34.mp3"
+    },
+    {
+        "korean": "보통",
+        "english": "usually",
+        "vietnamese": "thường, thông thường",
+        "audio": "tv-eps-b6-2025-35.mp3"
+    },
+    {
+        "korean": "요즘",
+        "english": "these days",
+        "vietnamese": "dạo này",
+        "audio": "tv-eps-b6-2025-36.mp3"
+    },
+    {
+        "korean": "일어나다",
+        "english": "to get up",
+        "vietnamese": "thức dậy",
+        "audio": "tv-eps-b6-2025-37.mp3"
+    },
+    {
+        "korean": "씻다",
+        "english": "to wash",
+        "vietnamese": "rửa, tắm rửa",
+        "audio": "tv-eps-b6-2025-38.mp3"
+    },
+    {
+        "korean": "이를 닦다",
+        "english": "to brush one's teeth",
+        "vietnamese": "đánh răng",
+        "audio": "tv-eps-b6-2025-39.mp3"
+    },
+    {
+        "korean": "식사하다",
+        "english": "to have a meal",
+        "vietnamese": "dùng bữa",
+        "audio": "tv-eps-b6-2025-40.mp3"
+    },
+    {
+        "korean": "출근하다",
+        "english": "to go to work",
+        "vietnamese": "đi làm",
+        "audio": "tv-eps-b6-2025-41.mp3"
+    },
+    {
+        "korean": "퇴근하다",
+        "english": "to leave work",
+        "vietnamese": "tan làm",
+        "audio": "tv-eps-b6-2025-42.mp3"
+    },
+    {
+        "korean": "게임하다",
+        "english": "to play a game",
+        "vietnamese": "chơi game",
+        "audio": "tv-eps-b6-2025-43.mp3"
+    },
+    {
+        "korean": "청소하다",
+        "english": "to clean",
+        "vietnamese": "dọn dẹp",
+        "audio": "tv-eps-b6-2025-44.mp3"
+    },
+    {
+        "korean": "장을 보다",
+        "english": "to go grocery shopping",
+        "vietnamese": "đi chợ\/mua đồ",
+        "audio": "tv-eps-b6-2025-45.mp3"
+    },
+    {
+        "korean": "산책하다",
+        "english": "to take a walk",
+        "vietnamese": "đi dạo",
+        "audio": "tv-eps-b6-2025-46.mp3"
+    },
+    {
+        "korean": "샤워하다",
+        "english": "to take a shower",
+        "vietnamese": "tắm vòi sen",
+        "audio": "tv-eps-b6-2025-47.mp3"
+    },
+    {
+        "korean": "친구를 만나다",
+        "english": "to meet a friend",
+        "vietnamese": "gặp bạn",
+        "audio": "tv-eps-b6-2025-48.mp3"
+    },
+    {
+        "korean": "휴게실",
+        "english": "lounge",
+        "vietnamese": "phòng nghỉ",
+        "audio": "tv-eps-b6-2025-49.mp3"
+    },
+    {
+        "korean": "매점",
+        "english": "snack bar",
+        "vietnamese": "quầy bán đồ ăn nhẹ",
+        "audio": "tv-eps-b6-2025-50.mp3"
+    },
+    {
+        "korean": "공원",
+        "english": "park",
+        "vietnamese": "công viên",
+        "audio": "tv-eps-b6-2025-51.mp3"
+    },
+    {
+        "korean": "사다",
+        "english": "to buy",
+        "vietnamese": "mua",
+        "audio": "tv-eps-b6-2025-52.mp3"
+    }
+]

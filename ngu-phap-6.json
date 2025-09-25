@@ -1,0 +1,24 @@
+[{
+  "nguphap": "-(스)ㅂ니다 / -(스)ㅂ니까?",
+  "loai": "동사/형용사 + -(스)ㅂ니다 / -(스)ㅂ니까?",
+  "ynghia": "-(스)ㅂ니다 dùng trong tình huống trang trọng, lịch sự để mô tả một sự việc, nâng cao người nghe. Dùng -(스)ㅂ니까? để hỏi một cách lịch sự.",
+  "vidu": [
+    {"cau": "푸캄 씨는 지금 기숙사에 있습니다.", "nghia": "Fukam hiện đang ở ký túc xá."},
+    {"cau": "프엉 씨는 몇 시에 잡니까?", "nghia": "Phương dậy lúc mấy giờ?"},
+    {"cau": "아미나 씨는 12시에 점심을 먹었습니다.", "nghia": "Amina ăn trưa lúc 12 giờ."}
+  ],
+  "luat": "Nếu động từ có 받침 → -(스)ㅂ니다 / -(스)ㅂ니까? (먹다 → 먹습니다, 먹습니까?). Nếu động từ kết thúc bằng 받침 ㄹ hoặc không có 받침 → -ㅂ니다 / -ㅂ니까? (보다 → 봅니다, 봅니까?)."
+},
+{
+  "nguphap": "에서",
+  "loai": "장소 명사 + 에서",
+  "ynghia": "에서 dùng sau danh từ chỉ địa điểm để chỉ nơi diễn ra hành động. Khác với 에 chỉ nơi tồn tại của người hoặc vật.",
+  "vidu": [
+    {"cau": "왕민 씨는 기숙사에서 청소해요.", "nghia": "Vương Minh dọn dẹp ở ký túc xá."},
+    {"cau": "유수프 씨는 공원에 있어요.", "nghia": "Yusuf ở công viên."},
+    {"cau": "아지자 씨는 공원에서 운동을 해요.", "nghia": "Aziza tập thể dục ở công viên."},
+    {"cau": "다라 씨는 휴게실에서 신문을 읽습니다.", "nghia": "Dara đọc báo ở phòng nghỉ."},
+    {"cau": "마두 씨는 편의점에서 주스를 삽니다.", "nghia": "Madu mua nước trái cây ở cửa hàng tiện lợi."}
+  ],
+  "luat": "에서 dùng để chỉ nơi hành động diễn ra, khác với 에 chỉ nơi tồn tại của người hoặc vật."
+}]
