@@ -1,0 +1,24 @@
+[{
+  "nguphap": "-(으)시-",
+  "loai": "동사/형용사 + -(으)시-",
+  "ynghia": "Được thêm vào động từ hoặc tính từ để tôn kính chủ ngữ của câu. Khi dùng, các trợ từ 이/가 thay bằng 께서, 은/는 thay bằng 께서는.",
+  "vidu": [
+    {"cau": "아버지께서는 회사원이십니다.", "nghia": "Cha là nhân viên công ty."},
+    {"cau": "할머니께서 텔레비전을 보세요.", "nghia": "Bà xem tivi."},
+    {"cau": "어머니께서 음식을 만드십니다.", "nghia": "Mẹ nấu ăn."},
+    {"cau": "할아버지께서 신문을 읽으십니다.", "nghia": "Ông đọc báo."}
+  ],
+  "luat": "Nếu động từ có 받침 → -으시- (읽다 → 읽으세요/읽으십니다). Nếu động từ không có 받침 hoặc kết thúc bằng 받침 ㄹ → -시- (보다 → 보세요/보십니다)."
+},
+{
+  "nguphap": "-고",
+  "loai": "동사/형용사 + -고",
+  "ynghia": "Dùng để nối hai hoặc nhiều hành động, trạng thái, hoặc sự thật theo thứ tự thời gian hoặc liệt kê các trạng thái, hành động.",
+  "vidu": [
+    {"cau": "카림 씨는 운동을 하고 샤워했어요.", "nghia": "Karim tập thể dục và sau đó tắm."},
+    {"cau": "닛차난 씨는 키가 크고 머리가 길어요.", "nghia": "Nitchanan cao và tóc dài."},
+    {"cau": "저는 음식을 만들고 민민아웅 씨는 설거지를 해요.", "nghia": "Tôi nấu ăn và Minmin Aung rửa bát."},
+    {"cau": "다라 씨는 캄보디아 사람이고 칼로 씨는 필리핀 사람이에요.", "nghia": "Dara là người Campuchia và Karlo là người Philippines."}
+  ],
+  "luat": "Dùng -고 sau động từ hoặc tính từ để nối các hành động, trạng thái, hoặc sự thật. Thứ tự các hành động cũng có thể theo trình tự thời gian hoặc đơn giản liệt kê."
+}]
