@@ -1,0 +1,84 @@
+
+[
+{
+  "audio": "hoi-thoai-8-1.mp3",
+  "hinhanh": "hoi-thoai-8-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "마두",
+      "korean": "프엉 씨, 어머니께서 한국에 계세요?",
+      "vietnamese": "Phuong, mẹ của bạn đang ở Hàn Quốc à?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "네, 같이 살아요.",
+      "vietnamese": "Vâng, sống cùng tôi."
+    },
+    {
+      "speaker": "마두",
+      "korean": "어머니께서는 한국에서 무슨 일을 하세요?",
+      "vietnamese": "Mẹ bạn làm việc gì ở Hàn Quốc?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "베트남 식당에서 일하세요. 어머니께서 요리를 잘하세요.",
+      "vietnamese": "Mẹ làm việc ở nhà hàng Việt Nam. Mẹ nấu ăn rất giỏi."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "프엉 씨 어머니는 어디에 계세요?",
+      "vietnamese_question": "Mẹ của Phuong đang ở đâu?",
+      "korean_answer": "한국에 계세요.",
+      "vietnamese_answer": "Ở Hàn Quốc."
+    },
+    {
+      "korean_question": "프엉 씨의 어머니는 어디에서 일하세요?",
+      "vietnamese_question": "Mẹ của Phuong làm việc ở đâu?",
+      "korean_answer": "베트남 식당에서 일하세요.",
+      "vietnamese_answer": "Làm việc ở nhà hàng Việt Nam."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-8-2.mp3",
+  "hinhanh": "hoi-thoai-8-2.jpg",
+  "hoithoai": [
+    {
+      "speaker": "왕민",
+      "korean": "가족사진이네요. 이분이 어머니세요?",
+      "vietnamese": "Ảnh gia đình nhỉ. Đây là mẹ của bạn à?"
+    },
+    {
+      "speaker": "닛차난",
+      "korean": "네, 이분이 어머니시고, 이분이 아버지세요.",
+      "vietnamese": "Vâng, đây là mẹ tôi, và đây là bố tôi."
+    },
+    {
+      "speaker": "왕민",
+      "korean": "아버지께서 키가 크고 멋있으세요. 아버지께서는 무슨 일을 하세요?",
+      "vietnamese": "Bố bạn cao và đẹp trai. Bố bạn làm nghề gì?"
+    },
+    {
+      "speaker": "닛차난",
+      "korean": "아버지께서는 경찰관이세요.",
+      "vietnamese": "Bố tôi là cảnh sát."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "닛차난 씨의 아버지께서는 무슨 일을 하세요?",
+      "vietnamese_question": "Bố của Nitchanan làm nghề gì?",
+      "korean_answer": "아버지께서는 경찰관이세요.",
+      "vietnamese_answer": "Bố là cảnh sát."
+    },
+    {
+      "korean_question": "닛차난 씨의 아버지께서는 키가 작으세요?",
+      "vietnamese_question": "Bố của Nitchanan có thấp không?",
+      "korean_answer": "아니요, 키가 크세요.",
+      "vietnamese_answer": "Không, ông ấy cao."
+    }
+  ]
+ }
+ ]
+
