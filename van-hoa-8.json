@@ -1,0 +1,32 @@
+[{
+  "title": {
+    "korean": "높임말과 반말",
+    "vietnamese": "Lối nói kính ngữ và lối nói ngang hàng/trống không"
+  },
+  "data": [
+    {
+      "korean": "한국어에는 높임말(존댓말)과 반말이 있습니다. 높임말은 자신보다 나이가 많거나 지위가 높은 사람에게 사용하며, 반말은 나이가 적은 사람에게 사용합니다. 그러나 자신보다 나이가 적어도 처음 만난 사람이나 가깝지 않은 사람에게는 상대방을 존중하는 의미로 높임말을 사용하는 것이 좋습니다. 최근에는 직장에서도 자신보다 어리거나 지위가 낮은 사람에게 높임말을 사용하는 경우가 많습니다. 한국어로 말할 때는 대화 상대방이나 대화 상황에 따라 높임말과 반말을 잘 구별해서 사용해야 합니다. 그렇지 않으면 상대방을 불편하게 할 수 있습니다.",
+      "vietnamese": "Trong tiếng Hàn có cả lối nói kính ngữ và lối nói ngang hàng/trống không. Lời nói kính ngữ được sử dụng với những người lớn tuổi hơn hoặc có địa vị cao hơn bản thân, còn lời nói trống không nói ngang hàng được sử dụng cho những người ít tuổi hơn. Tuy nhiên, bạn nên dùng kính ngữ với ý nghĩa tôn trọng đối phương, ít nhất là đối với những người lần đầu gặp mặt hoặc những người không gần gũi với bạn. Dạo gần đây, ngay cả ở nơi làm việc cũng có nhiều trường hợp sử dụng kính ngữ với những người trẻ hơn hoặc có địa vị thấp hơn mình. Khi nói tiếng Hàn, bạn nên phân biệt rõ ràng giữa kính ngữ và trống không tùy thuộc vào đối tượng đối thoại hoặc tình huống đối thoại. Nếu không, bạn có thể khiến đối phương không thoải mái."
+    },
+    {
+      "korean": "한편, 자신보다 나이가 많아도 가족과 같이 아주 가까운 관계라면 반말을 사용하기도 합니다. 딸이나 아들이 부모님께 반말을 하는 것을 쉽게 들을 수 있는 것도 이 때문입니다. 이와 같이 높임말과 반말은 존중의 정도뿐만 아니라 친밀감의 정도를 드러내는 중요한 역할을 합니다.",
+      "vietnamese": "Tuy nhiên, ngay cả khi đối phương lớn tuổi hơn mình, nhưng nếu có mối quan hệ rất gần gũi hoặc trong gia đình vẫn có thể nói trống không. Đó là lý do tại sao bạn có thể dễ dàng nghe con gái hoặc con trai nói trống không với bố mẹ. Như vậy cách giao tiếp không chỉ thể hiện sự tôn trọng mà còn đóng vai trò quan trọng trong việc thể hiện mức độ gần gũi của quan hệ."
+    }
+  ],
+  "voca": {
+    "높임말/존댓말": "Kính ngữ",
+    "반말": "Lời nói ngang hàng, nói trống không",
+    "지위": "Địa vị",
+    "존중하다": "Tôn trọng",
+    "최근": "Gần đây",
+    "지위가 낮은 사람": "Người có địa vị thấp",
+    "구별하다": "Phân biệt",
+    "불편하다": "Bất tiện",
+    "관계": "Quan hệ",
+    "친밀감": "Cảm giác thân mật",
+    "드러내다": "Làm hiện ra, phơi bày",
+    "역할하다": "Đóng vai trò",
+    "비슷하다": "Tương tự",
+    "반대말": "Từ trái nghĩa"
+  }
+}]
