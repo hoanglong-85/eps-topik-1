@@ -1,0 +1,344 @@
+[
+    {
+        "korean": "이름",
+        "english": "name",
+        "vietnamese": "tên",
+        "audio": "tv-eps-b8-2025-1.mp3"
+    },
+    {
+        "korean": "집",
+        "english": "house",
+        "vietnamese": "nhà",
+        "audio": "tv-eps-b8-2025-2.mp3"
+    },
+    {
+        "korean": "나이",
+        "english": "age",
+        "vietnamese": "tuổi",
+        "audio": "tv-eps-b8-2025-3.mp3"
+    },
+    {
+        "korean": "성함",
+        "english": "name (honorific)",
+        "vietnamese": "tên (kính ngữ)",
+        "audio": "tv-eps-b8-2025-4.mp3"
+    },
+    {
+        "korean": "댁",
+        "english": "house (honorific)",
+        "vietnamese": "nhà (kính ngữ)",
+        "audio": "tv-eps-b8-2025-5.mp3"
+    },
+    {
+        "korean": "연세",
+        "english": "age (honorific)",
+        "vietnamese": "tuổi (kính ngữ)",
+        "audio": "tv-eps-b8-2025-6.mp3"
+    },
+    {
+        "korean": "있다",
+        "english": "to exist \/ to have",
+        "vietnamese": "có, tồn tại",
+        "audio": "tv-eps-b8-2025-7.mp3"
+    },
+    {
+        "korean": "먹다",
+        "english": "to eat",
+        "vietnamese": "ăn",
+        "audio": "tv-eps-b8-2025-8.mp3"
+    },
+    {
+        "korean": "자다",
+        "english": "to sleep",
+        "vietnamese": "ngủ",
+        "audio": "tv-eps-b8-2025-9.mp3"
+    },
+    {
+        "korean": "말하다",
+        "english": "to speak",
+        "vietnamese": "nói",
+        "audio": "tv-eps-b8-2025-10.mp3"
+    },
+    {
+        "korean": "아프다",
+        "english": "to be sick",
+        "vietnamese": "bị bệnh, đau",
+        "audio": "tv-eps-b8-2025-11.mp3"
+    },
+    {
+        "korean": "계시다",
+        "english": "to exist (honorific)",
+        "vietnamese": "có, ở (kính ngữ)",
+        "audio": "tv-eps-b8-2025-12.mp3"
+    },
+    {
+        "korean": "잡수시다\/드시다",
+        "english": "to eat (honorific)",
+        "vietnamese": "ăn (kính ngữ)",
+        "audio": "tv-eps-b8-2025-13.mp3"
+    },
+    {
+        "korean": "주무시다",
+        "english": "to sleep (honorific)",
+        "vietnamese": "ngủ (kính ngữ)",
+        "audio": "tv-eps-b8-2025-14.mp3"
+    },
+    {
+        "korean": "말씀하시다",
+        "english": "to speak (honorific)",
+        "vietnamese": "nói (kính ngữ)",
+        "audio": "tv-eps-b8-2025-15.mp3"
+    },
+    {
+        "korean": "편찮으시다",
+        "english": "to be sick (honorific)",
+        "vietnamese": "bị bệnh (kính ngữ)",
+        "audio": "tv-eps-b8-2025-16.mp3"
+    },
+    {
+        "korean": "할아버지",
+        "english": "grandfather",
+        "vietnamese": "ông",
+        "audio": "tv-eps-b8-2025-17.mp3"
+    },
+    {
+        "korean": "할머니",
+        "english": "grandmother",
+        "vietnamese": "bà",
+        "audio": "tv-eps-b8-2025-18.mp3"
+    },
+    {
+        "korean": "부모님",
+        "english": "parents",
+        "vietnamese": "bố mẹ",
+        "audio": "tv-eps-b8-2025-19.mp3"
+    },
+    {
+        "korean": "아버지(아빠)",
+        "english": "father (dad)",
+        "vietnamese": "bố\/ba",
+        "audio": "tv-eps-b8-2025-20.mp3"
+    },
+    {
+        "korean": "어머니(엄마)",
+        "english": "mother (mom)",
+        "vietnamese": "mẹ",
+        "audio": "tv-eps-b8-2025-21.mp3"
+    },
+    {
+        "korean": "형",
+        "english": "older brother (to a younger brother)",
+        "vietnamese": "anh (nam gọi)",
+        "audio": "tv-eps-b8-2025-22.mp3"
+    },
+    {
+        "korean": "오빠",
+        "english": "older brother (to a younger sister)",
+        "vietnamese": "anh (nữ gọi)",
+        "audio": "tv-eps-b8-2025-23.mp3"
+    },
+    {
+        "korean": "누나",
+        "english": "older sister (to a younger brother)",
+        "vietnamese": "chị (nam gọi)",
+        "audio": "tv-eps-b8-2025-24.mp3"
+    },
+    {
+        "korean": "언니",
+        "english": "older sister (to a younger sister)",
+        "vietnamese": "chị (nữ gọi)",
+        "audio": "tv-eps-b8-2025-25.mp3"
+    },
+    {
+        "korean": "나(남자)",
+        "english": "me (man)",
+        "vietnamese": "tôi (nam)",
+        "audio": "tv-eps-b8-2025-26.mp3"
+    },
+    {
+        "korean": "나(여자)",
+        "english": "me (woman)",
+        "vietnamese": "tôi (nữ)",
+        "audio": "tv-eps-b8-2025-27.mp3"
+    },
+    {
+        "korean": "여동생",
+        "english": "younger sister",
+        "vietnamese": "em gái",
+        "audio": "tv-eps-b8-2025-28.mp3"
+    },
+    {
+        "korean": "남동생",
+        "english": "younger brother",
+        "vietnamese": "em trai",
+        "audio": "tv-eps-b8-2025-29.mp3"
+    },
+    {
+        "korean": "아내",
+        "english": "wife",
+        "vietnamese": "vợ",
+        "audio": "tv-eps-b8-2025-30.mp3"
+    },
+    {
+        "korean": "남편",
+        "english": "husband",
+        "vietnamese": "chồng",
+        "audio": "tv-eps-b8-2025-31.mp3"
+    },
+    {
+        "korean": "형제",
+        "english": "brothers",
+        "vietnamese": "anh em trai",
+        "audio": "tv-eps-b8-2025-32.mp3"
+    },
+    {
+        "korean": "자매",
+        "english": "sisters",
+        "vietnamese": "chị em gái",
+        "audio": "tv-eps-b8-2025-33.mp3"
+    },
+    {
+        "korean": "남매",
+        "english": "brother and sister",
+        "vietnamese": "anh trai và em gái",
+        "audio": "tv-eps-b8-2025-34.mp3"
+    },
+    {
+        "korean": "피자",
+        "english": "pizza",
+        "vietnamese": "pizza",
+        "audio": "tv-eps-b8-2025-35.mp3"
+    },
+    {
+        "korean": "비빔밥",
+        "english": "bibimbap",
+        "vietnamese": "cơm trộn Hàn Quốc",
+        "audio": "tv-eps-b8-2025-36.mp3"
+    },
+    {
+        "korean": "마당",
+        "english": "yard",
+        "vietnamese": "sân",
+        "audio": "tv-eps-b8-2025-37.mp3"
+    },
+    {
+        "korean": "창문",
+        "english": "window",
+        "vietnamese": "cửa sổ",
+        "audio": "tv-eps-b8-2025-38.mp3"
+    },
+    {
+        "korean": "닦다",
+        "english": "to wipe",
+        "vietnamese": "lau, chùi",
+        "audio": "tv-eps-b8-2025-39.mp3"
+    },
+    {
+        "korean": "아들",
+        "english": "son",
+        "vietnamese": "con trai",
+        "audio": "tv-eps-b8-2025-40.mp3"
+    },
+    {
+        "korean": "딸",
+        "english": "daughter",
+        "vietnamese": "con gái",
+        "audio": "tv-eps-b8-2025-41.mp3"
+    },
+    {
+        "korean": "예쁘다",
+        "english": "to be pretty",
+        "vietnamese": "xinh đẹp",
+        "audio": "tv-eps-b8-2025-42.mp3"
+    },
+    {
+        "korean": "멋있다",
+        "english": "to be good-looking \/ stylish",
+        "vietnamese": "đẹp trai \/ phong cách",
+        "audio": "tv-eps-b8-2025-43.mp3"
+    },
+    {
+        "korean": "귀엽다",
+        "english": "to be cute",
+        "vietnamese": "dễ thương",
+        "audio": "tv-eps-b8-2025-44.mp3"
+    },
+    {
+        "korean": "잘생기다",
+        "english": "to be handsome",
+        "vietnamese": "đẹp trai",
+        "audio": "tv-eps-b8-2025-45.mp3"
+    },
+    {
+        "korean": "키가 크다",
+        "english": "to be tall",
+        "vietnamese": "cao",
+        "audio": "tv-eps-b8-2025-46.mp3"
+    },
+    {
+        "korean": "키가 작다",
+        "english": "to be short",
+        "vietnamese": "thấp, lùn",
+        "audio": "tv-eps-b8-2025-47.mp3"
+    },
+    {
+        "korean": "머리가 길다",
+        "english": "to have long hair",
+        "vietnamese": "tóc dài",
+        "audio": "tv-eps-b8-2025-48.mp3"
+    },
+    {
+        "korean": "머리가 짧다",
+        "english": "to have short hair",
+        "vietnamese": "tóc ngắn",
+        "audio": "tv-eps-b8-2025-49.mp3"
+    },
+    {
+        "korean": "재미있다",
+        "english": "to be interesting \/ fun",
+        "vietnamese": "thú vị",
+        "audio": "tv-eps-b8-2025-50.mp3"
+    },
+    {
+        "korean": "친절하다",
+        "english": "to be kind",
+        "vietnamese": "tốt bụng, thân thiện",
+        "audio": "tv-eps-b8-2025-51.mp3"
+    },
+    {
+        "korean": "착하다",
+        "english": "to be nice \/ good-natured",
+        "vietnamese": "hiền lành",
+        "audio": "tv-eps-b8-2025-52.mp3"
+    },
+    {
+        "korean": "부지런하다",
+        "english": "to be diligent",
+        "vietnamese": "chăm chỉ",
+        "audio": "tv-eps-b8-2025-53.mp3"
+    },
+    {
+        "korean": "활발하다",
+        "english": "to be active \/ lively",
+        "vietnamese": "hoạt bát",
+        "audio": "tv-eps-b8-2025-54.mp3"
+    },
+    {
+        "korean": "얌전하다",
+        "english": "to be calm \/ gentle",
+        "vietnamese": "điềm đạm",
+        "audio": "tv-eps-b8-2025-55.mp3"
+    },
+    {
+        "korean": "똑똑하다",
+        "english": "to be smart",
+        "vietnamese": "thông minh",
+        "audio": "tv-eps-b8-2025-56.mp3"
+    },
+    {
+        "korean": "성격이 급하다",
+        "english": "to be impatient",
+        "vietnamese": "tính nóng vội",
+        "audio": "tv-eps-b8-2025-57.mp3"
+    }
+]
